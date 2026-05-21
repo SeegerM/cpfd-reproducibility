@@ -1,0 +1,4 @@
+[submodule "HyFD"]
+	path = HyFD
+	url = https://github.com/SeegerM/HyFD.git
+	branch = gpdep
