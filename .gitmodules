@@ -2,3 +2,6 @@
 	path = HyFD
 	url = https://github.com/SeegerM/HyFD.git
 	branch = gpdep
+[submodule "experiments/Dataset-Pollution-Generator"]
+	path = experiments/Dataset-Pollution-Generator
+	url = https://github.com/SeegerM/Dataset-Pollution-Generator.git
